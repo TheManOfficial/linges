@@ -1,0 +1,95 @@
+When the letter "E" is at the end of a word, it no longer makes vowels say their names, and instead makes  it's usual sound
+Silent letters no longer exist
+The letter "Q" is removed, use kw or k for the sounds it would make
+The letter "Z" is removed, use s instead
+The letter "X" is removed
+The letter "C" only makes the "ch" sound, use k or s for any other sound it would have made
+The letter "U" only makes the "uh" sound, and is the only way to make that sound
+The letter "O" only makes the oo sound, and is the only way to make that sound
+The letter "I" only makes the ih sound, and is the only way to make that sound
+The letter "A" always makes the ah sound, and is the only way to make that sound
+The letter "E" always makes the eh sound, and is the only way to make that sound
+The letter "F" always makes the f sound, and is the only way to make that sound
+The letter "V" always makes the v sound, and is the only way to make that sound
+The letter "Y" always makes the y sound, and is no longer a vowel
+The letter "G" always makes the g sound, and is the only way to make that sound
+The letter thorn (þ) from older English is back, and is the only way to make the th sound
+The letter esh (ʃ) from the ipa is here, and is the only way to represent the sh sound
+The letter engma (ŋ) from Latin is back, and the only way to make the ng sound
+The "OU" letter combo is the only one that makes the ow sound, and only makes that one
+The "ER" letter combo is the only one that makes the er sound, and only makes that one
+The "OR" letter combo is the only one that makes the or sound, and only makes that one
+The "IR" letter combo is the only one that makes the ere sound, and only makes that one
+The "OI" letter combo is the only one that makes the oi sound, and only makes that one
+The "OW" letter combo is the only one that makes the aw sound, and only makes that one
+To get a letter to say it's name, put two of the letter next to each other, which is also the only way to make their respective sounds
+For all plural words, add s to the end of the non plural variant
+For all possessive words, add ' to the end of the non possessive variant 
+The articles a, an and the are replaced with just the
+The articles is and are get replaced with is
+The articles do and will are replaced with do
+The articles in, on at and are replaced with in
+To address yourself, always use I instead of I, me, my, myself and so on
+To address someone else, either use their name or they instead of he, she, they, them and so on
+To address the person you are talking to use thoo or they, name instead of you
+To address a group of people (inculding you and not including you, use we instead of us, they them and so on
+Gender specific words like blond and blonde are changed, use the feminine version instead (blonde)
+If a verb is currently happening, use -ŋ instead of -ing
+If a verb has already happened, use -þ instead of -ed
+If a verb is happening in the future use -ʃ
+All slurs either mean their alternate definition or nothing at all (like how retard also means to slow down or hinder)
+Pronouns like she and he are removed, and replaced with gender neutral words (like xe/xem/xyr)
+The punctuation characters !, ? and . are all replaced with . context clues can help determine if it is a question or not
+Capital letters are removed, use lower case variants instead
+Always use number characters (1234567890) instead of using word variants
+Longer words that mean the same as smaller words are removed
+All sentences use a subject-verb-adjective-object structure
+To form a question, start a sentance with kwe
+To form an exclamation start a sentance with we
+To say no, not or anything alike use ne instead
+All forms of conjegation and contractions no longer exist
+
+NUMBERS
+0 = nul
+1 = wu
+2 = tu
+3 = þu
+4 = fuur
+5 = fu
+6 = su
+7 = se
+8 = at
+9 = nu
+10 = wunul
+11 = wuwu
+20 = tunul
+21 = tuwu
+... and so on
+
+-EXAMPLES:
+Colour = kuler
+Quilt = kwilt
+Cheese - cees
+Phone = foon
+Bang - baaŋ
+Shun = ʃun
+Centre = senter
+Gigantic = big
+I went to the store = Ii goŋ þee stor
+It is their's = It is þaa'
+It is mine = it is Ii'
+You are going home = þaa go hous
+We are going home = wee go hous
+You are not real = þaa ne reel
+Don't do it = do ne it
+Be quiet = bee kwiiet
+I love you = Ii luv þo
+
+A FEW OTHER EXAMPLES (MOSTLY FIXES FOR COMMON HOMOPHONES)
+Their (belonging to them) = þaa'
+There (location) = þeer
+They're (they are) = þaa
+To (expressing motion) = to
+Too (excessively) = tuu
+Your (belonging to you) = þor
+You're (you are) = þoor
